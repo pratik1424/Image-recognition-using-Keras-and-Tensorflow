@@ -62,5 +62,5 @@ The project files consists of the following files/folders,
 
 
 
-[here] https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+[1] https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 
