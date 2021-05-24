@@ -1,5 +1,5 @@
 # Image recognition using keras and Tensorflow
-The project aims to build a simple image recognising model based on cifar-10 dataset, availabe [here].
+The project aims to build a simple image recognising model based on cifar-10 dataset.
 
 ## About the dataset
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
@@ -62,5 +62,5 @@ The project files consists of the following files/folders,
 
 
 
-[1] https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+
 
